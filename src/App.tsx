@@ -143,7 +143,7 @@ export default function App() {
               <MessageCircle className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-slate-800 dark:text-slate-100 leading-none">CatchUp</h1>
+              <h1 className="text-lg font-bold text-slate-800 dark:text-slate-100 leading-none">Compresso</h1>
               <p className="text-xs text-slate-400 leading-none mt-0.5">What did I miss?</p>
             </div>
           </div>
