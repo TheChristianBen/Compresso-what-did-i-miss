@@ -192,7 +192,7 @@ export default function App() {
               <div className="w-16 h-16 rounded-2xl bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center mx-auto mb-4">
                 <Inbox className="w-8 h-8 text-blue-600 dark:text-blue-400" />
               </div>
-              <h2 className="text-2xl font-bold text-slate-800 dark:text-slate-100">Catch up on your chats</h2>
+              <h2 className="text-2xl font-bold text-slate-800 dark:text-slate-100">Compress your chats</h2>
               <p className="text-slate-500 dark:text-slate-400 mt-2">
                 Import a chat export and get a prioritized briefing of what you missed.
                 All processing happens in your browser — no data leaves your device.
